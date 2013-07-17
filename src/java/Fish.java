@@ -1,4 +1,0 @@
-Kippers
-Sardines
-Mackerel
-Tuna

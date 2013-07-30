@@ -26,7 +26,7 @@ public class MyServlet extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		response.getWriter().println("Hello from servlet! Servlet time is "+(new Date()).toGMTString());
+		response.getWriter().println("DEMO! Hello from servlet! Servlet time is "+(new Date()).toGMTString());
 	}
 
 	/**
